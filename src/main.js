@@ -5,8 +5,8 @@ import './registerServiceWorker'
 let AFrame = require('aframe');
 
 
-Vue.use(AFrame);
-Vue.config.productionTip = false
+//Vue.use(AFrame);
+//Vue.config.productionTip = false
 
 new Vue({
   router,
